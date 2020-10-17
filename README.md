@@ -5,7 +5,7 @@ une formation pour acquérir les bases du développement web sur 6 mois.
 Il a débuté lors de la 3e semaine de la formation et a duré 2 semaines. 
 Nous étions organisé en équipe de 4 personnes.
 
-J'ai fait office de scrum master, était responsable drawer menu ainsi que du jeu whack-a-mole.
+J'ai fait office de scrum master, j'était responsable du drawer menu ainsi que du jeu whack-a-mole.
 
 ## Objectif du projet
 L'object était de réaliser un site statique qui répondrait à un besoin.
